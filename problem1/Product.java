@@ -1,5 +1,5 @@
 package Problem1;
-class Product {
+final class Product {
     private String productId;
     private String productName;
     private double price;
